@@ -1,0 +1,9 @@
+username.capture
+email_address.capture
+password.capture
+profile.create
+profile_pic.upload
+project.create
+project.edit
+project.getfeedback
+project.publish
